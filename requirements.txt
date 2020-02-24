@@ -1,0 +1,12 @@
+ipdb
+joblib
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+statsmodels
+tensorflow
+tqdm
+
