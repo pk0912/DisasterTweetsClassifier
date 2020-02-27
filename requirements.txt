@@ -9,4 +9,5 @@ seaborn
 statsmodels
 tensorflow
 tqdm
+wordcloud
 
